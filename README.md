@@ -1,3 +1,5 @@
+Reproduction for https://github.com/rails/rails/issues/19996
+
 ```
 $ rails s
 /Users/prathamesh/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/railties-4.2.1/lib/rails/app_rails_loader.rb:39: warning: Insecure world writable dir /usr in PATH, mode 040777
