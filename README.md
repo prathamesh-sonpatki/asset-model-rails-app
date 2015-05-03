@@ -1,4 +1,4 @@
-
+```
 $ rails s
 /Users/prathamesh/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/railties-4.2.1/lib/rails/app_rails_loader.rb:39: warning: Insecure world writable dir /usr in PATH, mode 040777
 /Users/prathamesh/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/bundler-1.9.3/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /usr in PATH, mode 040777
@@ -50,6 +50,8 @@ Completed 200 OK in 171ms (Views: 169.1ms | ActiveRecord: 0.0ms)
 
 
 Started POST "/assets" for ::1 at 2015-05-03 21:26:49 +0530
+
+```
 
 This gives following error:
 
